@@ -1,14 +1,14 @@
 body {
      background-color: #ffa500; /*Warna kuning cerah */
-   font-family:Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
+   font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
   color: #ff53ff; /* Warna teks utama (Ungu Gelap) */
 }
 
 .kartu Profil {
-     width: 300px;
-    margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
-   padding: 20px;
-  background-color: white;
+width: 300px;
+margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding: 20px;
+background-color: white;
 border-radius: 15px; /* Mwmbuat sudut menjadi melengkung */
 box-shadow: 0 4px 8px rgba(0,0,0,0,1) /* efek bayangan */
 text-align: center; /* Menengahkan semua teks di dalam kartu */

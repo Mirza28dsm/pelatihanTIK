@@ -16,5 +16,7 @@ body {
 
 .kartu-profil img {
   width: 150px;
+ height: 150px
+ objective-fit: cover;
   border-radius: 50%; /* Trik untuk membuat persegi menjadi lingkaran sempurna */
 }
